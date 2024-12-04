@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoUpdateClickOnceDemo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SettingsFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\BeispielSettings.json</Value>
+    </Setting>
+    <Setting Name="TestEinstellung" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Meine Einstellung</Value>
+    </Setting>
+    <Setting Name="SettingsKey1App" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">654654</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
