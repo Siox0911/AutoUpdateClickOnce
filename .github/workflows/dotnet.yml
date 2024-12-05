@@ -14,7 +14,7 @@ jobs:
 
     runs-on: windows-latest
     env:
-      Solution_Name: AutoUpdateClickOnce.sln                         # Replace with your solution name, i.e. MyWpfApp.sln.
+      Solution_Name: src/AutoUpdateClickOnce/AutoUpdateClickOnce.csproj                         # Replace with your solution name, i.e. MyWpfApp.sln.
 
     steps:
     - uses: actions/checkout@v4
